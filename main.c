@@ -23,7 +23,7 @@ int main()
       char another,choice;
 
     struct ent{
-
+int a;
             int productID;
             char productnam[20];
             int buyerID;
