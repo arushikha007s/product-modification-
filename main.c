@@ -14,7 +14,7 @@ void gotoxy(int x,int y){
 
 
 }
-
+//main function started
 
 int main()
 {
