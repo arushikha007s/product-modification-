@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <windows.h>
 #include <string.h>
-
+#include<math.h>
 COORD coord={0,0};
 
 void gotoxy(int x,int y){
