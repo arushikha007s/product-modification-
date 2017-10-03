@@ -5,7 +5,7 @@
 #include <string.h>
 #include<math.h>
 COORD coord={0,0};
-
+//x for x axis ,, y for y axis
 void gotoxy(int x,int y){
 
             coord.X=x;
