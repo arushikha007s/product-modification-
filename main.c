@@ -33,9 +33,9 @@ int main()
     };
 
     struct ent e;
+//changed character size to 60
 
-
-    char na[40];
+    char na[60];
 
     long int recsize;
 
