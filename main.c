@@ -73,7 +73,7 @@ fp = fopen("AC.DAT","rb+");
         printf("Your Choice: ");
         fflush(stdin);
         choice  = getche();
-
+//for the choices used
          switch(choice)
         {
         case '1':
