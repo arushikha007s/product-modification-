@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1501456236 source:c:\users\user\documents\amazoncart.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
