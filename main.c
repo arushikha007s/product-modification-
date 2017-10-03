@@ -27,7 +27,8 @@ int main()
             int productID;
             char productnam[20];
             int buyerID;
-            char date[20];
+                //changed size
+            char date[30];
             long int phoneno;
 
     };
