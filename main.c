@@ -35,7 +35,7 @@ int main()
     struct ent e;
 
 
-    char na[20];
+    char na[40];
 
     long int recsize;
 
